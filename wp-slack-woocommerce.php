@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Slack WooCommerce (forked to Vidstore)
+ * Plugin Name: Slack WooCommerce (forked to kinged007)
  * Plugin URI: http://gedex.web.id/wp-slack/
  * Description: This plugin allows you to send notifications to Slack channels whenever payment in WooCommerce is marked as complete.
  * Version: 0.1.0
